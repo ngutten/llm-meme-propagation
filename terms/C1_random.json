@@ -1,0 +1,12 @@
+[
+  {"form": "lantern-parity", "note": "concrete object + abstract math notion, null pairing"},
+  {"form": "pliers-dialectic", "note": "tool + philosophy term, null pairing"},
+  {"form": "socket-melancholy", "note": "concrete object + emotion, null pairing"},
+  {"form": "fennel-apparatus", "note": "herb + mechanical noun, null pairing"},
+  {"form": "drimp-calibration", "note": "near-nonword + technical noun, null pairing"},
+  {"form": "thimble-mandate", "note": "small object + political/legal noun, null pairing"},
+  {"form": "sporn-latency", "note": "near-nonword + engineering term, null pairing"},
+  {"form": "chalk-jurisdiction", "note": "material + legal abstraction, null pairing"},
+  {"form": "vellum-voltage", "note": "material + physics quantity, null pairing"},
+  {"form": "plank-cardinality", "note": "concrete object + set-theory term, null pairing"}
+]

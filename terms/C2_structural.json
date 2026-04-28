@@ -1,0 +1,12 @@
+[
+  {"form": "legibility-cost", "note": "social/HCI-adjacent; sounds like the price of being understood"},
+  {"form": "affordance-creep", "note": "design-adjacent; features that accumulate latent uses"},
+  {"form": "register-collapse", "note": "linguistics-adjacent; speech levels flattening"},
+  {"form": "composure-debt", "note": "emotion-adjacent; borrowed calm owed back later"},
+  {"form": "phrase-gravity", "note": "linguistics-adjacent; some wordings attract usage"},
+  {"form": "status-viscosity", "note": "social dynamics; resistance to hierarchy change"},
+  {"form": "contrast-budget", "note": "design; finite visual-distinction capacity"},
+  {"form": "envy-topology", "note": "emotion; the shape of comparative feelings in a group"},
+  {"form": "recall-debt", "note": "cognition; unresolved retrieval pressure"},
+  {"form": "boundary-slip", "note": "cognition/social; a category's edge quietly moving"}
+]
