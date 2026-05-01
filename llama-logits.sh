@@ -46,6 +46,10 @@ fi
 # Adjust hardware-specific flags as needed. The key thing for surprisal work
 # is that the model loads and exposes /v1/completions; logprobs are a
 # request-level parameter and don't need a server-side flag.
+#
+# Flag set: hat tip to @kira.pds.witchcraft.systems, whose strix-halo notes
+# had most of these. For speed at slight memory savings: --cache-type-k q8_0
+# --cache-type-v q8_0. For concurrent trials: --parallel N.
 
 llama-server \
   --model "$MODEL_PATH" \
